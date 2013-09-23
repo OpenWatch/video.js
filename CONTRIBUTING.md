@@ -190,7 +190,8 @@ open sandbox/index.html
 > 1. Do your development and testing using a local HTTP server.
 >
 > 2. [Disable the version of Flash included with Chrome](http://helpx.adobe.com/flash-player/kb/flash-player-google-chrome.html#How_can_I_run_debugger_or_alternate_versions_of_Flash_Player_in_Google_Chrome) and enable a system-wide version of Flash instead.
-
+>
+> 3. Run Chrome with --allow-file-access-from-files
 
 Commit and push changes as you go (using git directly). Write thorough descriptions of your changes in your commit messages.
 
